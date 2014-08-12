@@ -107,7 +107,7 @@
 			</Canvas>
 			<Rectangle x:Name="HorizontalSeparator" Height="4" Canvas.Left="-28" Canvas.Top="295" Width="620" Fill="{StaticResource PhoneAccentBrush}"/>
 			<Rectangle x:Name="VerticalSeparator" Fill="{StaticResource PhoneAccentBrush}" Height="369" Canvas.Left="213" Canvas.Top="489" Width="4"/>
-			<TextBlock x:Name="ApplicationTitle" TextWrapping="Wrap" Text="MOBILETUTS MINIMAL CLOCK" Canvas.Top="271" Foreground="{StaticResource PhoneAccentBrush}" FontSize="16" Canvas.Left="18"/>
+			<TextBlock x:Name="ApplicationTitle" TextWrapping="Wrap" Text="ANIMATED CLOCK" Canvas.Top="271" Foreground="{StaticResource PhoneAccentBrush}" FontSize="16" Canvas.Left="18"/>
 			<TextBlock x:Name="SecondsLabel" Height="36" Canvas.Left="23" TextWrapping="Wrap" Text="seconds" Canvas.Top="475" Width="166" TextAlignment="Right" Style="{StaticResource SmallTextStyle}" Margin="0"/>
 			<TextBlock x:Name="TimeSeconds" Height="205" Canvas.Left="3" TextWrapping="Wrap" Text="59" Canvas.Top="464" Width="210" FontSize="186.667" RenderTransformOrigin="0.5,0.5" Opacity="0">
 				<TextBlock.RenderTransform>
