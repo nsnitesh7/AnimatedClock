@@ -1,0 +1,10 @@
+﻿<xapCache source="C:\Users\nitesi\Documents\Visual Studio 2013\Projects\MinimalClock\MinimalClock\Bin\Debug\MinimalClock_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="8/13/2014 12:47:02 AM">
+  <file source="C:\Users\nitesi\Documents\Visual Studio 2013\Projects\MinimalClock\MinimalClock\obj\Debug\MinimalClock.dll" archivePath="MinimalClock.dll" lastWriteTime="8/13/2014 12:47:00 AM" />
+  <file source="C:\Users\nitesi\Documents\Visual Studio 2013\Projects\MinimalClock\MinimalClock\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="8/12/2014 10:18:45 PM" />
+  <file source="C:\Users\nitesi\Documents\Visual Studio 2013\Projects\MinimalClock\MinimalClock\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="8/13/2014 12:29:46 AM" />
+  <file source="C:\Users\nitesi\Documents\Visual Studio 2013\Projects\MinimalClock\MinimalClock\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="8/12/2014 10:18:45 PM" />
+  <file source="C:\Users\nitesi\Documents\Visual Studio 2013\Projects\MinimalClock\MinimalClock\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="8/12/2014 10:18:45 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\Microsoft.Expression.Interactions.dll" archivePath="Microsoft.Expression.Interactions.dll" lastWriteTime="9/25/2012 1:41:02 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="9/25/2012 1:41:02 AM" />
+  <file source="C:\Users\nitesi\Documents\Visual Studio 2013\Projects\MinimalClock\MinimalClock\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="8/13/2014 12:29:47 AM" />
+</xapCache>
